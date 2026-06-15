@@ -6,7 +6,7 @@
 -->
 
 <div align="center">
-  <img src="assets/banner_gradient.png" alt="Jorge Doicela Banner" width="100%" style="border-radius: 8px;" />
+  <img src="assets/banner_premium.png" alt="Jorge Doicela Banner" width="100%" style="border-radius: 8px;" />
 
   <br/>
   <br/>
