@@ -1,7 +1,7 @@
 <!--
-  BENTO & LINEAR LOOK GITHUB PROFILE README
+  README DE PERFIL DE GITHUB - ESTILO BENTO Y LINEAR
   Diseñado para: Jorge Ismael Doicela Molina
-
+  
   Nota: Para personalizar tus enlaces de contacto, edita las URLs en las líneas de abajo.
 -->
 
@@ -12,11 +12,11 @@
   <br/>
 
   # Jorge Ismael Doicela Molina
-  ### **Software Developer & DevSecOps Enthusiast**
+  ### **Desarrollador de Software y Entusiasta de DevSecOps**
   *Estudiante de Ingeniería en Inteligencia Artificial y Ciberseguridad*
 
   **Conéctate conmigo:**
-
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-09090b?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-doicela)
   [![Gmail](https://img.shields.io/badge/Gmail-09090b?style=flat-square&logo=gmail&logoColor=white)](mailto:ismael02doicela@gmail.com)
   [![Quito, Ecuador](https://img.shields.io/badge/Quito,%20Ecuador-09090b?style=flat-square&logo=google-maps&logoColor=white)](#)
@@ -36,13 +36,13 @@ Tengo un gran interés por la estética minimalista y moderna, en especial el **
 
 ---
 
-## Perfil Profesional (Bento Grid Layout)
+## Perfil Profesional (Diseño Bento Grid)
 
 <table width="100%">
   <!-- Fila 1: Stack Principal y Workflow -->
   <tr>
     <td width="50%" valign="top">
-      <h3>Stack Principal & Toolbox</h3>
+      <h3>Tecnologías y Stack Principal</h3>
       <p>Tecnologías clave en las que confío para crear e iterar productos:</p>
       <br/>
       <img src="https://img.shields.io/badge/PostgreSQL-09090b?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -57,7 +57,7 @@ Tengo un gran interés por la estética minimalista y moderna, en especial el **
       <p><small>Enfoque en desarrollo backend eficiente, persistencia relacional estructurada, y empaquetamiento contenedorizado.</small></p>
     </td>
     <td width="50%" valign="top">
-      <h3>Workflow & Entorno de Terminal</h3>
+      <h3>Flujo de Trabajo y Entorno de Terminal</h3>
       <p>Entornos optimizados y configurados para máxima productividad y velocidad:</p>
       <br/>
       <img src="https://img.shields.io/badge/Arch_Linux-09090b?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" />
@@ -112,19 +112,19 @@ Tengo un gran interés por la estética minimalista y moderna, en especial el **
   <!-- Fila 3: Cloud & DevSecOps -->
   <tr>
     <td colspan="2" valign="top">
-      <h3>Cloud, DevSecOps & Ciberseguridad</h3>
+      <h3>Nube, DevSecOps y Ciberseguridad</h3>
       <table width="100%" style="border: none;">
         <tr style="border: none;">
           <td width="33%" style="border: none; padding: 10px;" valign="top">
-            <strong>Infraestructura Cloud</strong>
+            <strong>Infraestructura en la Nube</strong>
             <p><small>Despliegue de arquitecturas en la nube mediante servicios de Amazon Web Services (AWS) como Lightsail para mantener servidores VPS de alto rendimiento.</small></p>
           </td>
           <td width="33%" style="border: none; padding: 10px;" valign="top">
-            <strong>CI/CD Automatizado</strong>
+            <strong>Automatización y CI/CD</strong>
             <p><small>Integración de pipelines de despliegue continuo (Continuous Integration / Continuous Deployment) dirigidos de forma automatizada hacia VPS y servidores cloud.</small></p>
           </td>
           <td width="33%" style="border: none; padding: 10px;" valign="top">
-            <strong>Seguridad por Diseño</strong>
+            <strong>Ciberseguridad y Arquitectura</strong>
             <p><small>Integración de prácticas DevSecOps desde el diseño inicial, asegurando el empaquetado seguro en Docker y mitigando riesgos de seguridad a nivel de arquitectura.</small></p>
           </td>
         </tr>
@@ -141,10 +141,10 @@ Tengo un gran interés por la estética minimalista y moderna, en especial el **
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=JorgeDoicela&show_icons=true&theme=dark&bg_color=09090b&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&border_color=27272a" alt="GitHub Stats de Jorge" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=JorgeDoicela&show_icons=true&theme=dark&bg_color=080710,130e26&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&border_color=1e1b4b" alt="Estadísticas de GitHub de Jorge" width="100%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDoicela&layout=compact&theme=dark&bg_color=09090b&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&border_color=27272a" alt="Lenguajes Principales de Jorge" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDoicela&layout=compact&theme=dark&bg_color=080710,130e26&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&border_color=1e1b4b" alt="Lenguajes Principales de Jorge" width="100%" />
       </td>
     </tr>
   </table>
