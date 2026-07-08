@@ -31,7 +31,7 @@
 
 Desarrollador de software radicado en Quito, Ecuador, y guiado por valores cristianos. Me apasiona el desarrollo de sistemas web, aplicaciones nativas y multiplataforma, así como la administración de servidores (locales y cloud), con un enfoque orientado a soluciones integrales, arquitecturas escalables, seguridad e **Infraestructura como Código (IaC)**.
 
-Mi experiencia abarca el desarrollo **Full-Stack**, trabajando con tecnologías frontend y backend como **React**, **Next.js**, **NestJS**, **Laravel / Blade / PHP**, **C# / .NET**, **Python** y lenguajes como **C** y **C++**, además de bases de datos relacionales (**PostgreSQL** y **MySQL**). Integro prácticas de **DevSecOps** y principios de diseño seguro desde el inicio del ciclo de desarrollo. En paralelo, expando mis conocimientos cursando la Ingeniería en **Inteligencia Artificial y Ciberseguridad**, lo que me permite aplicar un enfoque de hardening a los sistemas que diseño.
+Mi experiencia abarca el desarrollo **Full-Stack**, trabajando con tecnologías frontend y backend como **React**, **Next.js**, **NestJS**, **Laravel / Blade** y **.NET**, lenguajes de programación como **PHP**, **C#**, **Python**, **C** y **C++**, además de bases de datos relacionales (**PostgreSQL** y **MySQL**) y no relacionales (**MongoDB**). Integro prácticas de **DevSecOps** y principios de diseño seguro desde el inicio del ciclo de desarrollo. En paralelo, expando mis conocimientos cursando la Ingeniería en **Inteligencia Artificial y Ciberseguridad**, lo que me permite aplicar un enfoque de hardening a los sistemas que diseño.
 
 Con una marcada sensibilidad por la estética visual y un gran interés por el diseño limpio y minimalista, disfruto la aplicación de diferentes estilos de diseño (como el **Linear Look** y distribuciones **Bento Grid**), maquetados previamente en Figma para asegurar una experiencia de usuario moderna, intuitiva y sumamente pulida.
 
@@ -54,19 +54,21 @@ Con una marcada sensibilidad por la estética visual y un gran interés por el d
       <img src="https://img.shields.io/badge/C%23-09090b?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
       <img src="https://img.shields.io/badge/C-09090b?style=flat-square&logo=c&logoColor=white" alt="C" />
       <img src="https://img.shields.io/badge/C%2B%2B-09090b?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/Python-09090b?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <br/>
       <img src="https://img.shields.io/badge/NestJS-09090b?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
       <img src="https://img.shields.io/badge/Laravel-09090b?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
       <img src="https://img.shields.io/badge/Blade-09090b?style=flat-square&logo=laravel&logoColor=white" alt="Blade" />
       <img src="https://img.shields.io/badge/PHP-09090b?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/Python-09090b?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <br/>
       <img src="https://img.shields.io/badge/PostgreSQL-09090b?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/MySQL-09090b?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-09090b?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
       <img src="https://img.shields.io/badge/Docker-09090b?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/AWS-09090b?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
       <img src="https://img.shields.io/badge/GitHub_Actions-09090b?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
       <br/><br/>
-      <p><small>Enfoque en desarrollo backend eficiente, persistencia relacional estructurada, y empaquetamiento contenedorizado.</small></p>
+      <p><small>Enfoque en desarrollo backend eficiente, persistencia relacional y no relacional, y empaquetamiento contenedorizado.</small></p>
     </td>
     <td width="50%" valign="top">
       <h3>Flujo de Trabajo y Entorno de Terminal</h3>

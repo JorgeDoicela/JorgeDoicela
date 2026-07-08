@@ -29,7 +29,7 @@
 
 Software Developer based in Quito, Ecuador, guided by Christian values. I am passionate about the development of web systems, native and cross-platform applications, as well as server administration (local and cloud), with a focus on end-to-end solutions, scalable architectures, security, and **Infrastructure as Code (IaC)**.
 
-My experience spans **Full-Stack** development, working with frontend and backend technologies such as **React**, **Next.js**, **NestJS**, **Laravel / Blade / PHP**, **C# / .NET**, **Python**, and languages like **C** and **C++**, along with relational databases (**PostgreSQL** and **MySQL**). I integrate **DevSecOps** practices and secure design principles from the very beginning of the software development lifecycle. In parallel, I expand my knowledge by studying **Artificial Intelligence and Cybersecurity Engineering**, allowing me to apply hardening techniques to the systems I design.
+My experience spans **Full-Stack** development, working with frontend and backend technologies such as **React**, **Next.js**, **NestJS**, **Laravel / Blade**, and **.NET**, programming languages like **PHP**, **C#**, **Python**, **C**, and **C++**, along with relational (**PostgreSQL** and **MySQL**) and non-relational (**MongoDB**) databases. I integrate **DevSecOps** practices and secure design principles from the very beginning of the software development lifecycle. In parallel, I expand my knowledge by studying **Artificial Intelligence and Cybersecurity Engineering**, allowing me to apply hardening techniques to the systems I design.
 
 With a strong sensibility for visual aesthetics and a passion for clean, minimalist design, I enjoy applying various design styles (such as the **Linear Look** and **Bento Grid** layouts). I model them first in Figma to ensure that the code translates into modern, intuitive, and highly polished user experiences.
 
@@ -52,19 +52,21 @@ With a strong sensibility for visual aesthetics and a passion for clean, minimal
       <img src="https://img.shields.io/badge/C%23-09090b?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
       <img src="https://img.shields.io/badge/C-09090b?style=flat-square&logo=c&logoColor=white" alt="C" />
       <img src="https://img.shields.io/badge/C%2B%2B-09090b?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/Python-09090b?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <br/>
       <img src="https://img.shields.io/badge/NestJS-09090b?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
       <img src="https://img.shields.io/badge/Laravel-09090b?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
       <img src="https://img.shields.io/badge/Blade-09090b?style=flat-square&logo=laravel&logoColor=white" alt="Blade" />
       <img src="https://img.shields.io/badge/PHP-09090b?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/Python-09090b?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <br/>
       <img src="https://img.shields.io/badge/PostgreSQL-09090b?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/MySQL-09090b?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-09090b?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
       <img src="https://img.shields.io/badge/Docker-09090b?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/AWS-09090b?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
       <img src="https://img.shields.io/badge/GitHub_Actions-09090b?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
       <br/><br/>
-      <p><small>Focus on efficient backend development, structured relational persistence, and containerized deployment.</small></p>
+      <p><small>Focus on efficient backend development, relational and non-relational persistence, and containerized deployment.</small></p>
     </td>
     <td width="50%" valign="top">
       <h3>Workflow & Terminal Environment</h3>
