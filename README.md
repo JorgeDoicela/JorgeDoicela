@@ -5,6 +5,10 @@
   Nota: Para personalizar tus enlaces de contacto, edita las URLs en las líneas de abajo.
 -->
 
+<div align="right">
+  <strong>Español</strong> | <a href="README.en.md">English</a>
+</div>
+
 <div align="center">
 
   # Jorge Ismael Doicela Molina
@@ -16,7 +20,7 @@
   [![Portafolio](https://img.shields.io/badge/Portafolio-09090b?style=flat-square&logo=firefox&logoColor=white)](https://jorgedoicela.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-09090b?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-doicela-76ba282a1/?skipRedirect=true)
   [![Gmail](https://img.shields.io/badge/Gmail-09090b?style=flat-square&logo=gmail&logoColor=white)](mailto:ismael02doicela@gmail.com)
-  [![Quito, Ecuador](https://img.shields.io/badge/Quito,%20Ecuador-09090b?style=flat-square&logo=google-maps&logoColor=white)](#)
+  [![Quito, Ecuador](https://img.shields.io/badge/Quito,%20Ecuador-09090b?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Quito,Ecuador)
 </div>
 
 <br/>
@@ -25,11 +29,11 @@
 
 ## Sobre Mí
 
-Desarrollador de software radicado en Quito, Ecuador. Me apasiona construir herramientas robustas, eficientes y seguras, con un enfoque particular en arquitecturas orientadas a **Software como Servicio (SaaS)** y el diseño de infraestructura escalable.
+Desarrollador de software radicado en Quito, Ecuador, y guiado por valores cristianos. Me apasiona el desarrollo de sistemas web, aplicaciones nativas y multiplataforma, así como la administración de servidores (locales y cloud), con un enfoque orientado a soluciones integrales, arquitecturas escalables, seguridad e **Infraestructura como Código (IaC)**.
 
-Mi experiencia abarca el desarrollo **Full-Stack**, trabajando con tecnologías frontend y backend como **React**, **Next.js**, **NestJS**, **Laravel / PHP**, **C# / .NET** y **Python**, además de bases de datos relacionales (**PostgreSQL** y **MySQL**). Integro prácticas de **DevSecOps** y principios de diseño seguro desde el inicio del ciclo de desarrollo. En paralelo, expando mis conocimientos cursando la Ingeniería en **Inteligencia Artificial y Ciberseguridad**, lo que me permite aplicar un enfoque de hardening a los sistemas que diseño.
+Mi experiencia abarca el desarrollo **Full-Stack**, trabajando con tecnologías frontend y backend como **React**, **Next.js**, **NestJS**, **Laravel / Blade / PHP**, **C# / .NET**, **Python** y lenguajes como **C** y **C++**, además de bases de datos relacionales (**PostgreSQL** y **MySQL**). Integro prácticas de **DevSecOps** y principios de diseño seguro desde el inicio del ciclo de desarrollo. En paralelo, expando mis conocimientos cursando la Ingeniería en **Inteligencia Artificial y Ciberseguridad**, lo que me permite aplicar un enfoque de hardening a los sistemas que diseño.
 
-Soy un entusiasta del diseño limpio y minimalista, aplicando conceptos como el **Linear Look** y distribuciones **Bento Grid** (maquetados previamente en Figma) para asegurar una experiencia de usuario moderna y sumamente pulida.
+Con una marcada sensibilidad por la estética visual y un gran interés por el diseño limpio y minimalista, disfruto la aplicación de diferentes estilos de diseño (como el **Linear Look** y distribuciones **Bento Grid**), maquetados previamente en Figma para asegurar una experiencia de usuario moderna, intuitiva y sumamente pulida.
 
 ---
 
@@ -48,8 +52,11 @@ Soy un entusiasta del diseño limpio y minimalista, aplicando conceptos como el 
       <img src="https://img.shields.io/badge/Vite-09090b?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
       <br/>
       <img src="https://img.shields.io/badge/C%23-09090b?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/C-09090b?style=flat-square&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/C%2B%2B-09090b?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/NestJS-09090b?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
       <img src="https://img.shields.io/badge/Laravel-09090b?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/Blade-09090b?style=flat-square&logo=laravel&logoColor=white" alt="Blade" />
       <img src="https://img.shields.io/badge/PHP-09090b?style=flat-square&logo=php&logoColor=white" alt="PHP" />
       <img src="https://img.shields.io/badge/Python-09090b?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <br/>
@@ -57,6 +64,7 @@ Soy un entusiasta del diseño limpio y minimalista, aplicando conceptos como el 
       <img src="https://img.shields.io/badge/MySQL-09090b?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/Docker-09090b?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/AWS-09090b?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-09090b?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
       <br/><br/>
       <p><small>Enfoque en desarrollo backend eficiente, persistencia relacional estructurada, y empaquetamiento contenedorizado.</small></p>
     </td>
@@ -85,13 +93,13 @@ Soy un entusiasta del diseño limpio y minimalista, aplicando conceptos como el 
         <li>
           <b>Emplifi</b>
           <br/>
-          <small>Sistema de gestión de recursos humanos orientado a la optimización de procesos del personal administrativo.</small>
+          <small>Desarrollo Full-Stack y optimización de APIs para el sistema de gestión de recursos humanos, mejorando el rendimiento y la persistencia de datos.</small>
         </li>
         <br/>
         <li>
-          <b>Plataforma de Capacitaciones</b>
+          <b>Plataforma de Capacitaciones (CNC)</b>
           <br/>
-          <small>Desarrollo, estabilización y despliegue contenedorizado para el Consejo Nacional de Competencias (CNC).</small>
+          <small>Estabilización de código, desarrollo de módulos backend y despliegue contenedorizado con Docker para el Consejo Nacional de Competencias.</small>
         </li>
       </ul>
     </td>
@@ -121,7 +129,7 @@ Soy un entusiasta del diseño limpio y minimalista, aplicando conceptos como el 
       <p><small>Despliegue de arquitecturas en la nube mediante servicios de Amazon Web Services (AWS) como Lightsail para mantener servidores VPS de alto rendimiento.</small></p>
       <br/>
       <strong>Automatización y CI/CD</strong>
-      <p><small>Integración de pipelines de despliegue continuo (Continuous Integration / Continuous Deployment) dirigidos de forma automatizada hacia VPS y servidores cloud.</small></p>
+      <p><small>Integración de pipelines de despliegue continuo (CI/CD) con herramientas como **GitHub Actions**, dirigidos de forma automatizada hacia VPS y servidores cloud.</small></p>
       <br/>
       <strong>Ciberseguridad y Arquitectura</strong>
       <p><small>Integración de prácticas DevSecOps desde el diseño inicial, asegurando el empaquetado seguro en Docker y mitigando riesgos de seguridad a nivel de arquitectura.</small></p>
@@ -134,7 +142,7 @@ Soy un entusiasta del diseño limpio y minimalista, aplicando conceptos como el 
 ## Estadísticas de GitHub
 
 <p align="center">
-  <img src="./github-readme-stats/stats.svg" alt="Estadísticas de GitHub de Jorge" height="180" />
+  <img src="./github-readme-stats/stats-es.svg" alt="Estadísticas de GitHub de Jorge" height="180" />
   &nbsp;&nbsp;
-  <img src="./github-readme-stats/top-langs.svg" alt="Lenguajes Principales de Jorge" height="180" />
+  <img src="./github-readme-stats/top-langs-es.svg" alt="Lenguajes Principales de Jorge" height="180" />
 </p>

@@ -17,20 +17,36 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate stats card
+      - name: Generate English stats card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: stats
+          options: 'username=${{ github.repository_owner }}&show_icons=true&theme=dark&bg_color=080710,130e26&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&border_color=1e1b4b'
+          path: github-readme-stats/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate English top languages card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: top-langs
+          options: 'username=${{ github.repository_owner }}&layout=compact&theme=dark&bg_color=080710,130e26&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&border_color=1e1b4b'
+          path: github-readme-stats/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Spanish stats card
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: stats
           options: 'username=${{ github.repository_owner }}&show_icons=true&locale=es&theme=dark&bg_color=080710,130e26&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&border_color=1e1b4b'
-          path: github-readme-stats/stats.svg
+          path: github-readme-stats/stats-es.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages card
+      - name: Generate Spanish top languages card
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: top-langs
           options: 'username=${{ github.repository_owner }}&layout=compact&locale=es&theme=dark&bg_color=080710,130e26&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&border_color=1e1b4b'
-          path: github-readme-stats/top-langs.svg
+          path: github-readme-stats/top-langs-es.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push cards
