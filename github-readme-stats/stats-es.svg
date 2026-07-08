@@ -189,7 +189,7 @@
       <text class="stat not_bold" x="25" y="12.5">Total Stars:</text>
       <text
         class="stat not_bold"
-        x="219.01"
+        x="269.01"
         y="12.5"
         data-testid="stars"
       >0</text>
@@ -204,7 +204,7 @@
       <text class="stat not_bold" x="25" y="12.5">Commits (this year):</text>
       <text
         class="stat not_bold"
-        x="219.01"
+        x="269.01"
         y="12.5"
         data-testid="commits"
       >2k</text>
@@ -219,7 +219,7 @@
       <text class="stat not_bold" x="25" y="12.5">PRs:</text>
       <text
         class="stat not_bold"
-        x="219.01"
+        x="269.01"
         y="12.5"
         data-testid="prs"
       >0</text>
@@ -234,7 +234,7 @@
       <text class="stat not_bold" x="25" y="12.5">Issues:</text>
       <text
         class="stat not_bold"
-        x="219.01"
+        x="269.01"
         y="12.5"
         data-testid="issues"
       >0</text>
@@ -249,7 +249,7 @@
       <text class="stat not_bold" x="25" y="12.5">Contributed to:</text>
       <text
         class="stat not_bold"
-        x="219.01"
+        x="269.01"
         y="12.5"
         data-testid="contribs"
       >0</text>
