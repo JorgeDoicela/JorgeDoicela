@@ -8,11 +8,12 @@
 <div align="center">
 
   # Jorge Ismael Doicela Molina
-  ### **Desarrollador de Software y DevSecOps**
-  *Estudiante de Ingeniería en Inteligencia Artificial y Ciberseguridad*
+  ### **Desarrollador de Software con enfoque en DevSecOps**
+  *Ingeniería en Inteligencia Artificial y Ciberseguridad (En progreso)*
 
   **Conéctate conmigo:**
 
+  [![Portafolio](https://img.shields.io/badge/Portafolio-09090b?style=flat-square&logo=firefox&logoColor=white)](https://jorgedoicela.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-09090b?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-doicela-76ba282a1/?skipRedirect=true)
   [![Gmail](https://img.shields.io/badge/Gmail-09090b?style=flat-square&logo=gmail&logoColor=white)](mailto:ismael02doicela@gmail.com)
   [![Quito, Ecuador](https://img.shields.io/badge/Quito,%20Ecuador-09090b?style=flat-square&logo=google-maps&logoColor=white)](#)
@@ -24,11 +25,11 @@
 
 ## Sobre Mí
 
-Desarrollador de software de **23 años** radicado en Quito, Ecuador. Me apasiona construir herramientas robustas, eficientes y seguras, con un enfoque particular en arquitecturas orientadas al modelo de **Software como Servicio (SaaS)**.
+Desarrollador de software radicado en Quito, Ecuador. Me apasiona construir herramientas robustas, eficientes y seguras, con un enfoque particular en arquitecturas orientadas a **Software como Servicio (SaaS)** y el diseño de infraestructura escalable.
 
-Actualmente divido mi tiempo entre el desarrollo **Full-Stack** (con especialización en el ecosistema **PERN**) y mis estudios de Ingeniería en **Inteligencia Artificial y Ciberseguridad**. Esto me permite integrar desde el inicio del ciclo de desarrollo prácticas avanzadas de **DevSecOps** y principios de diseño seguro.
+Mi experiencia abarca el desarrollo **Full-Stack**, trabajando con tecnologías frontend y backend como **React**, **Next.js**, **NestJS**, **Laravel / PHP**, **C# / .NET** y **Python**, además de bases de datos relacionales (**PostgreSQL** y **MySQL**). Integro prácticas de **DevSecOps** y principios de diseño seguro desde el inicio del ciclo de desarrollo. En paralelo, expando mis conocimientos cursando la Ingeniería en **Inteligencia Artificial y Ciberseguridad**, lo que me permite aplicar un enfoque de hardening a los sistemas que diseño.
 
-Tengo un gran interés por la estética minimalista y moderna, en especial el **Linear Look** y las distribuciones **Bento Grid**, las cuales diseño en Figma antes de llevarlas al código para asegurar una experiencia de usuario sumamente pulida.
+Soy un entusiasta del diseño limpio y minimalista, aplicando conceptos como el **Linear Look** y distribuciones **Bento Grid** (maquetados previamente en Figma) para asegurar una experiencia de usuario moderna y sumamente pulida.
 
 ---
 
@@ -41,12 +42,19 @@ Tengo un gran interés por la estética minimalista y moderna, en especial el **
       <h3>Tecnologías y Stack Principal</h3>
       <p>Tecnologías clave en las que confío para crear e iterar productos:</p>
       <br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-09090b?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Express.js-09090b?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
       <img src="https://img.shields.io/badge/React-09090b?style=flat-square&logo=react&logoColor=white" alt="React" />
-      <img src="https://img.shields.io/badge/Node.js-09090b?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Next.js-09090b?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-09090b?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Vite-09090b?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
       <br/>
       <img src="https://img.shields.io/badge/C%23-09090b?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/NestJS-09090b?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+      <img src="https://img.shields.io/badge/Laravel-09090b?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/PHP-09090b?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/Python-09090b?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-09090b?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MySQL-09090b?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/Docker-09090b?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/AWS-09090b?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
       <br/><br/>
