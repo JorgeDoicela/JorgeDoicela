@@ -1,19 +1,19 @@
 <!--
   README DE PERFIL DE GITHUB - ESTILO BENTO Y LINEAR
   Diseñado para: Jorge Ismael Doicela Molina
-  
+
   Nota: Para personalizar tus enlaces de contacto, edita las URLs en las líneas de abajo.
 -->
 
 <div align="center">
 
   # Jorge Ismael Doicela Molina
-  ### **Desarrollador de Software y Entusiasta de DevSecOps**
+  ### **Desarrollador de Software y DevSecOps**
   *Estudiante de Ingeniería en Inteligencia Artificial y Ciberseguridad*
 
   **Conéctate conmigo:**
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-09090b?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-doicela)
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-09090b?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-doicela-76ba282a1/?skipRedirect=true)
   [![Gmail](https://img.shields.io/badge/Gmail-09090b?style=flat-square&logo=gmail&logoColor=white)](mailto:ismael02doicela@gmail.com)
   [![Quito, Ecuador](https://img.shields.io/badge/Quito,%20Ecuador-09090b?style=flat-square&logo=google-maps&logoColor=white)](#)
 </div>
@@ -109,22 +109,14 @@ Tengo un gran interés por la estética minimalista y moderna, en especial el **
   <tr>
     <td colspan="2" valign="top">
       <h3>Nube, DevSecOps y Ciberseguridad</h3>
-      <table width="100%" style="border: none;">
-        <tr style="border: none;">
-          <td width="33%" style="border: none; padding: 10px;" valign="top">
-            <strong>Infraestructura en la Nube</strong>
-            <p><small>Despliegue de arquitecturas en la nube mediante servicios de Amazon Web Services (AWS) como Lightsail para mantener servidores VPS de alto rendimiento.</small></p>
-          </td>
-          <td width="33%" style="border: none; padding: 10px;" valign="top">
-            <strong>Automatización y CI/CD</strong>
-            <p><small>Integración de pipelines de despliegue continuo (Continuous Integration / Continuous Deployment) dirigidos de forma automatizada hacia VPS y servidores cloud.</small></p>
-          </td>
-          <td width="33%" style="border: none; padding: 10px;" valign="top">
-            <strong>Ciberseguridad y Arquitectura</strong>
-            <p><small>Integración de prácticas DevSecOps desde el diseño inicial, asegurando el empaquetado seguro en Docker y mitigando riesgos de seguridad a nivel de arquitectura.</small></p>
-          </td>
-        </tr>
-      </table>
+      <strong>Infraestructura en la Nube</strong>
+      <p><small>Despliegue de arquitecturas en la nube mediante servicios de Amazon Web Services (AWS) como Lightsail para mantener servidores VPS de alto rendimiento.</small></p>
+      <br/>
+      <strong>Automatización y CI/CD</strong>
+      <p><small>Integración de pipelines de despliegue continuo (Continuous Integration / Continuous Deployment) dirigidos de forma automatizada hacia VPS y servidores cloud.</small></p>
+      <br/>
+      <strong>Ciberseguridad y Arquitectura</strong>
+      <p><small>Integración de prácticas DevSecOps desde el diseño inicial, asegurando el empaquetado seguro en Docker y mitigando riesgos de seguridad a nivel de arquitectura.</small></p>
     </td>
   </tr>
 </table>
@@ -133,15 +125,8 @@ Tengo un gran interés por la estética minimalista y moderna, en especial el **
 
 ## Estadísticas de GitHub
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=JorgeDoicela&show_icons=true&theme=dark&bg_color=080710,130e26&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&border_color=1e1b4b" alt="Estadísticas de GitHub de Jorge" width="100%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDoicela&layout=compact&theme=dark&bg_color=080710,130e26&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&border_color=1e1b4b" alt="Lenguajes Principales de Jorge" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="./github-readme-stats/stats.svg" alt="Estadísticas de GitHub de Jorge" height="180" />
+  &nbsp;&nbsp;
+  <img src="./github-readme-stats/top-langs.svg" alt="Lenguajes Principales de Jorge" height="180" />
+</p>

@@ -1,0 +1,42 @@
+name: Update GitHub Readme Stats
+on:
+  push:
+    branches:
+      - main
+      - master
+  schedule:
+    - cron: "0 0 * * *" # Se ejecuta una vez al día a la medianoche
+  workflow_dispatch:      # Permite ejecutarlo de forma manual desde la interfaz de GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write     # Necesario para guardar y hacer push de las imágenes
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: stats
+          options: 'username=${{ github.repository_owner }}&show_icons=true&theme=dark&bg_color=080710,130e26&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&border_color=1e1b4b'
+          path: github-readme-stats/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: top-langs
+          options: 'username=${{ github.repository_owner }}&layout=compact&theme=dark&bg_color=080710,130e26&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&border_color=1e1b4b'
+          path: github-readme-stats/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-readme-stats/*.svg
+          git commit -m "chore: update github readme stats [skip ci]" || exit 0
+          git push
