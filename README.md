@@ -17,7 +17,7 @@
 
   **Conéctate conmigo:**
 
-  [![Portafolio](https://img.shields.io/badge/Portafolio-09090b?style=flat-square&logo=firefox&logoColor=white)](https://jorgedoicela.com)
+  [![Portafolio](https://img.shields.io/badge/Portafolio-09090b?style=flat-square&logo=firefox&logoColor=white)](https://portfolio.jorgedoicela.com/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-09090b?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-doicela-76ba282a1/?skipRedirect=true)
   [![Gmail](https://img.shields.io/badge/Gmail-09090b?style=flat-square&logo=gmail&logoColor=white)](mailto:ismael02doicela@gmail.com)
   [![Quito, Ecuador](https://img.shields.io/badge/Quito,%20Ecuador-09090b?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Quito,Ecuador)
