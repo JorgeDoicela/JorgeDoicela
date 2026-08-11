@@ -115,7 +115,7 @@ With a strong sensibility for visual aesthetics and a passion for clean, minimal
         <li>
           <b>Software Development Higher Technician</b>
           <br/>
-          <small>Tecnológico Traversari (Graduated)</small>
+          <small>Tecnológico Traversari (Graduate)</small>
         </li>
       </ul>
     </td>
