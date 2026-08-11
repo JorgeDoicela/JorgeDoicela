@@ -117,7 +117,7 @@ Con una marcada sensibilidad por la estética visual y un gran interés por el d
         <li>
           <b>Tecnólogo Superior en Desarrollo de Software</b>
           <br/>
-          <small>Tecnológico Traversari (Graduado)</small>
+          <small>Tecnológico Traversari (Egresado)</small>
         </li>
       </ul>
     </td>
