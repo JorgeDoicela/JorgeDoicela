@@ -141,6 +141,14 @@ Con una marcada sensibilidad por la estética visual y un gran interés por el d
 
 ---
 
+## Proyectos y Colaboraciones Técnicas
+
+| Proyecto / Sistema | Arquitectura & Stack | Rol y Responsabilidad Técnica | Enlaces y Evidencia |
+| :--- | :--- | :--- | :---: |
+| **IstpetDev Platform**<br/>`istpetdev-platform`<br/>*(Expo Clean Ecuador 2026)* | **Cloud:** AWS (VPC, RDS PostgreSQL 16, EC2 SSM, S3, Cognito)<br/>**IaC:** Terraform (Modular, Remote State KMS)<br/>**DevOps:** GitHub Actions (CI/CD Matrix), Docker | **Arquitectura Cloud, DevOps & DevSecOps:**<br/>• Aprovisionamiento modular con Terraform de VPC dedicada multi-AZ, RDS PostgreSQL con `rds.force_ssl=1` y bastión EC2 administrado exclusivamente vía AWS Systems Manager (cero puertos SSH/HTTP expuestos).<br/>• Pipelines de CI/CD en GitHub Actions para compilación en Release, ejecución paralela de pruebas (.NET 8 / PostGIS) y control de concurrencia.<br/>• Hardening de seguridad: políticas IAM con MFA obligatorio, buckets S3 con cifrado SSE-KMS / TLS obligatorio, configuración de Amazon Cognito (PKCE) y control de gasto vía AWS Budgets. | [Repositorio](https://github.com/bryancito1090/istpetdev-platform)<br/>·<br/>[Mis Commits](https://github.com/bryancito1090/istpetdev-platform/commits?author=JorgeDoicela) |
+
+---
+
 ## Estadísticas de GitHub
 
 <p align="center">
