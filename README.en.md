@@ -150,7 +150,7 @@ With a strong sensibility for visual aesthetics and a passion for clean, minimal
 ## GitHub Stats
 
 <p align="center">
-  <img src="./github-readme-stats/stats.svg" alt="Jorge's GitHub Stats" height="180" />
+  <img src="./github-readme-stats/stats.svg?v=2" alt="Jorge's GitHub Stats" height="180" />
   &nbsp;&nbsp;
-  <img src="./github-readme-stats/top-langs.svg" alt="Jorge's Top Languages" height="180" />
+  <img src="./github-readme-stats/top-langs.svg?v=2" alt="Jorge's Top Languages" height="180" />
 </p>

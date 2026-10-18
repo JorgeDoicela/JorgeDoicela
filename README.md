@@ -152,7 +152,7 @@ Con una marcada sensibilidad por la estética visual y un gran interés por el d
 ## Estadísticas de GitHub
 
 <p align="center">
-  <img src="./github-readme-stats/stats-es.svg" alt="Estadísticas de GitHub de Jorge" height="180" />
+  <img src="./github-readme-stats/stats-es.svg?v=2" alt="Estadísticas de GitHub de Jorge" height="180" />
   &nbsp;&nbsp;
-  <img src="./github-readme-stats/top-langs-es.svg" alt="Lenguajes Principales de Jorge" height="180" />
+  <img src="./github-readme-stats/top-langs-es.svg?v=2" alt="Lenguajes Principales de Jorge" height="180" />
 </p>
